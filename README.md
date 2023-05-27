@@ -115,6 +115,6 @@ Of course after limit fix, pods are coming up and will be fine.
 
 ## More Info
 
-[GateKeeper Docs](https://open-policy-agent.github.io/gatekeeper/website/docs/)
-[OPA Git](https://github.com/open-policy-agent)
-[Rego](https://www.openpolicyagent.org/docs/latest/policy-language/)
+  - [GateKeeper Docs](https://open-policy-agent.github.io/gatekeeper/website/docs/)
+  - [OPA Git](https://github.com/open-policy-agent)
+  - [Rego](https://www.openpolicyagent.org/docs/latest/policy-language/)
